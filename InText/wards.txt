@@ -1,0 +1,3453 @@
+#############Arusha Region#########
+    >>>>>>Meru District 
+    Akheri
+    Kikatiti
+    Kikwe
+    King'ori
+    Leguruki
+    Maji ya Chai
+    Makiba
+    Maroroni
+    Mbuguni
+    Ngarenanyuki
+    Nkoanrua
+    Nkoaranga
+    Nkoarisambu
+    Poli
+    Seela Sing'isi
+    Songoro, Meru
+    Usa River
+
+    >>>>>>>>Arusha City
+    Baraa
+    Daraja Mbili
+    Elerai
+    Engutoto
+    Kaloleni
+    Kati
+    Kimandolu
+    Lemara
+    Levolosi
+    Moshono
+    Ngarenaro
+    Oloirien
+    Sekei
+    Sokon I
+    Sombetini
+    Themi
+    Unga L.T.D.
+    Olasiti
+    Terrat, Arusha
+ 
+   >>>>>>>>> Arusha District
+    Bangata
+    Bwawani
+    Ilkiding'a
+    Kiranyi
+    Kisongo
+    Kimnyaki
+    Mlangarini
+    Moivo
+    Mussa
+    Mwandeti
+    Nduruma
+    Olasiti
+    Olkokola
+    Oldonyosambu
+    Oljoro
+    Olmotonyi
+    Olorieni
+    Oltroto
+    Oltrumet
+    Sambasha
+    Mateves
+    Kisongo
+    Sokon II
+
+
+    >>>>>>>>Karatu District 
+    Baray
+    Buger
+    Daa
+    Endabash
+    Endamaghang
+    Endamarariek
+    Ganako
+    Kansay
+    Karatu
+    Mang'ola
+    Mbulumbulu
+    Oldeani
+    Qurus
+    Rhotia
+
+    >>>>>>>>>Longido District 
+    Elang'ata Dapash
+    Engarenaibor
+    Engikaret
+    Gelai Lumbwa
+    Gelai Meirugoi
+    Iloirienito
+    Kamwanga
+    Kitumbeine
+    Kimokouwa
+    Longido
+    Matale
+    Mundarara
+    Namanga
+    Olmolog
+    Orbomba
+    Tingatinga
+
+    >>>>>>>>>Monduli District
+    Engaruka
+    Engutoto, Monduli
+    Esilalei
+    Lepurko
+    Lolkisale
+    Majengo, Monduli
+    Makuyuni
+    Meserani, Monduli
+    Moita
+    Monduli Juu
+    Monduli Mjini
+    Mswakini
+    Mto wa Mbu[3]
+    Selela
+    Sepeko
+
+    >>>>>>>>>Ngorongoro District 
+    Alailelai
+    Arash
+    Digodigo
+    Enduleni
+    Enguserosambu
+    Kakesio
+    Maalon
+    Malambo
+    Nainokanoka
+    Nayobi
+    Ngorongoro
+    Olbalbal
+    Oldonyo-Sambu
+    Oloipiri
+    Oloirien
+    Ololosokwan
+    Orgosorok
+    Pinyinyi
+    Sale
+    Samunge
+    Soit Sambu
+
+
+##########Dar es Salaam Region ##########
+       >>>>>>lala Municipal 
+    Buguruni
+    Chanika
+    Gerezani
+    Gongolamboto
+    Ilala
+    Jangwani
+    Kariakoo
+    Kimanga
+    Kinyerezi
+    Kipawa
+    Kitunda
+    Kisutu
+    Kivukoni
+    Kivule
+    Kiwalani
+    Majohe
+    Mchafukoge
+    Mchikichini
+    Msongola
+    Pugu
+    Segerea
+    Tabata
+    Ukonga
+    Upanga East
+    Upanga West
+    Vingunguti
+
+        >>>>>>>>Kinondoni Municipal
+    Bunju
+    Goba
+    Hananasif
+    Kawe
+    Kibamba
+    Kigogo
+    Kijitonyama
+    Kimara
+    Kinondoni
+    Kunduchi
+    Magomeni
+    Makumbusho
+    Makurumula
+    Mbezi
+    Mbweni
+    Mikocheni
+    Msasani
+    Mwananyamala
+    Mzimuni
+    Ndugumbi
+    Tandale
+    Mbezi Juu
+    Makongo
+    Mabwepande
+    Wazo
+
+	>>>>>>Temeke Municipal
+    Azimio
+    Buza
+    Chamazi
+    Chang'ombe
+    Charambe
+    Keko
+    Kiburugwa
+    Kijichi
+    Kilakala
+    Kurasini
+    Makangarawe
+    Mbagala
+    Mbagala Kuu
+    Mianzini
+    Miburani
+    Mtoni
+    Pemba Mnazi
+    Sandali
+    Tandika
+    Temeke
+    Toangoma
+    Yombo Vituka
+
+         >>>>>>>Kigamboni Municipal 
+    Tungi
+    Vijibweni
+    Kimbiji
+    Kisarawe II
+    Kigamboni
+    Mjimwema
+    Kibada
+    Somangila
+
+	>>>>>>Ubungo Municipal
+    Msigani
+    Saranga
+    Makuburi
+    Ubungo
+    Mabibo
+    Sinza
+    Manzese
+    Mburahati
+
+#############Dodoma Region###############
+     >>>>>>>>Bahi District 
+    Babayu
+    Bahi
+    Chali
+    Chibelela
+    Chikola
+    Chifutuka
+    Chipanga
+    Ibihwa
+    Ibugule
+    Ilindi
+    Kigwe
+    Lamaiti
+    Makanda
+    Mpalanga
+    Mpamantwa
+    Mpinga
+    Msisi
+    Mtitaa
+    Mundemu
+    Mwitikira
+    Nondwa
+    Zanka
+
+
+
+   	>>>>>> Chamwino District 
+	
+    Buigiri
+    Chiboli
+    Chilonwa
+    Chinugulu
+    Dabalo
+    Fufu
+    Handali
+    Haneti
+    Huzi
+    Idifu
+    Igandu
+    Ikowa
+    Iringamvumi
+    Itiso
+    Loje
+    Majeleko
+    Makang'wa
+    Manchali
+    Manda
+    Manzase
+    Membe
+    Mlowa Bwawani
+    Mpwayungu
+    Msamalo
+    Msanga
+    Muungano
+    Mvumi Makulu
+    Mvumi Mission
+    Nghambaku
+    Nhinhi
+    Segala
+    Zajilwa
+
+         >>>>>>>Chemba District 
+	
+    Chandama
+    Chemba
+    Churuku
+    Dalai
+    Farkwa
+    Goima
+    Gwandi
+    Jangalo
+    Kimaha
+    Kwamtoro
+    Lalta
+    Makorongo
+    Mondo
+    Mpendo
+    Mrijo
+    Msaada
+    Ovada
+    Paranga
+    Sanzawa
+    Songoro
+
+         >>>>>>>Dodoma Municipal
+    Chahwa
+    Chamwino
+    Chang'ombe Dodoma
+    Chigongwe
+    Chihanga
+    Dodoma Makulu
+    Hazina
+    Hombolo
+    Hombolo Bwawani
+    Ihumwa
+    Ipagala
+    Ipala
+    Iyumbu
+    Kikombo
+    Kikuyu Kaskazini
+    Kikuyu Kusini
+    Kilimani
+    Kiwanja cha ndege
+    Kizota
+    Madukani
+    Majengo
+    Makole
+    Makutupora
+    Matumbulu
+    Mbabala
+    Mbalawala
+    Miyuji
+    Mkonze
+    Mnadani
+    Mpunguzi
+    Msalato
+    Mtumba
+    Nala
+    Ngh'ongh'onha
+    Nkuhungu
+    Ntyuka
+    Nzuguni
+    Tambukareli
+    Uhuru
+    Viwandani
+    Zuzu
+
+
+
+       >>>>>>>>>Kondoa District 
+	
+    Bereko
+    Bolisa
+    Bumbuta
+    Busi
+    Changaa
+    Chemchem
+    Haubi
+    Hondo mairo
+    Itaswi
+    Itololo
+    Kalamba
+    Kikilo
+    Kikore
+    Kilimani
+    Kingale
+    Kinyasi
+    Kisese
+    Kolo
+    Kondoa mjini
+    Kwadelo
+    Masange
+    Mnenia
+    Pahi
+    Salanka
+    Serya
+    Soera
+    Suruke
+    Thawi
+
+    	>>>>>>>>>>>>Kongwa District
+    Chamkoroma
+    Chitego
+    Chiwe
+    Hogoro
+    Iduo
+    Kibaigwa
+    Kongwa
+    Lenjulu
+    Makawa
+    Matongoro
+    Mkoka
+    Mlali
+    Mtanana
+    Nghumbi
+    Ngomai
+    Njoge
+    Pandambili
+    Sagara
+    Sejeli
+    Songambele
+    Ugogoni
+    Zoissa
+
+    >>>>>>>>>>>>Mpwapwa District 
+    Berege
+    Chipogoro
+    Chitemo
+    Chunyu
+    Galigali
+    Godegode
+    Gulwe
+    Ipera
+    Iwondo
+    Kibakwe
+    Kimagai
+    Kingiti
+    Lufu
+    Luhundwa
+    Lumuma
+    Lupeta
+    Malolo
+    Massa
+    Matomondo
+    Mazae
+    Mbuga
+    Mima
+    Mlunduzi
+    Mpwapwa
+    Mtera
+    Nghambi
+    Pwaga
+    Rudi
+    Vingh'awe
+    Wotta
+
+###########Geita Region#############
+   >>>>>> Bukombe District 
+	
+    Bugelenga
+    Bukombe
+    Bulega
+    Busonzo
+    Butinzya
+    Igulwa
+    Iyogelo
+    Katente
+    Lyambamgongo
+    Namonge
+    Ng'anzo
+    Runzewe Mashariki
+    Runzewe Magharibi
+    Ushirombo
+    Uyovu
+
+   >>>>>>> Chato District 
+    Bukome
+    Buseresere
+    Butengorumasa
+    Buziku
+    Bwanga
+    Bwera
+    Bwina
+    Bwongera
+    Chato
+    Minkoto
+    Ichwankima
+    Ilemela
+    Ilyamchele
+    Iparamasa
+    Kachwamba
+    Kasenga
+    Katende
+    Kigongo
+    Makurugusi
+    Muganza
+    Muungano
+    Nyamirembe
+    Nyarutembo
+
+   >>>>>>>>Geita Town
+    Bugalama
+    Bugulula
+    Bujula
+    Bukoli
+    Bukondo
+    Bulela
+    Bung'wangoko
+    Busanda
+    Butobela
+    Chigunga
+    Ihanamilo
+    Isulwabutundwe
+    Kagu
+    Kakubilo
+    Kalangalala
+    Kamena
+    Kamhanga
+    Kasamwa
+    Kaseme
+    Katoma
+    Katoro
+    Lubanga
+    Lwamgasa
+    Lwezera
+    Mtakuja
+    Nkome
+    Nyachiluluma
+    Nyakagomba
+    Nyakamwaga
+    Nyamalimbe
+    Nyamigota
+    Nyanguku
+    Nyarugusu
+    Nzera
+    Senga
+
+    >>>>>>>Mbogwe District 
+    Bukandwe
+    Ikobe
+    Ikunguigazi
+    Ilolangulu
+    Iponya
+    Isebya
+    Lugunga
+    Lulembela
+    Masumbwe
+    Mbogwe
+    Mgemo
+    Nanda
+    Ng'homolwa
+    Nyakafulu
+    Nyasato
+    Ushirika
+
+
+    >>>>>> Nyang'hwale District 
+    Bukwimba
+    Busolwa
+    Izunya
+    Kafita
+    Kakora
+    Kharumwa
+    Mwingiro
+    Nyabulanda
+    Nyang'hwale
+    Nyijundu
+    Nyugwa
+    Shabaka
+
+##########Iringa Region #########
+    >>>>>>Iringa District 
+    Idodi
+    Ifunda
+    Ilolompya
+    Itunundu
+    Izazi
+    Kalenga
+    Kihorogota
+    Kiwere
+    Lumuli
+    Maboga
+    Mahuninga
+    Magulilwa
+    Malengamakali
+    Mgama
+    Mlowa
+    Mseke
+    Nduli
+    Nzihi
+    Ulanda
+    Wasa
+
+    >>>>>>Iringa Municipal
+    Gangilonga
+    Igumbilo
+    Ipogolo
+    Ilala
+    Isakalilo
+    Kihesa
+    Kitanzini
+    Kitwiru
+    Kwakilosa
+    Makorongoni
+    Mivinjeni
+    Mkwawa
+    Mlandege
+    Mshindo
+    Mtwivila
+    Mwangata
+    Nduli
+    Ruaha
+
+    >>>>>>Kilolo District 
+    Bomalang'ombe
+    Dabaga
+    Ibumu
+    Idete
+    Ihimbo
+    Ilula
+    Image
+    Irole
+    Kising'a
+    Kimala
+    Kitowo
+    Lugalo
+    Mahenge
+    Masisiwe
+    Mawambala
+    Mlafu
+    Mtitu
+    Ng'ang'ange
+    Ng'uruhe
+    Nyalumbu
+    Nyanzwa
+    Ruaha Mbuyuni
+    Udekwa
+    Uhambingeto
+    Ukumbi
+    Ukwega
+    Winome
+
+   >>>>>>> Mafinga Town 
+	Bemba	
+	Kakoma	
+	Kalanga	
+	Luhoka	
+	Mafinga	
+	Mukutu	
+	Ntonga	
+	Thendere
+
+
+   >>>>>>>> Mufindi District 
+	Ifunda
+	Kasanga
+	Mafinga
+	Malangali
+	Mninga
+	Sadani
+	
+########Kagera Region ##########
+    >>>>>>Biharamulo District 
+    Biharamulo Mjini
+    Bisibo
+    Kabindi
+    Kalenge
+    Kaniha
+    Lusahunga
+    Nemba
+    Nyabusozi
+    Nyakahura
+    Nyamahanga
+    Nyamigogo
+    Nyantakara
+    Nyarubungo
+    Runazi
+    Ruziba
+
+    >>>>>>Bukoba District
+    Buhendangabo
+    Bujugo
+    Butelankuzi
+    Butulage
+    Ibwera
+    Izimbya
+    Kaagya
+    Kaibanja
+    Kanyangereko
+    Karabagaine
+    Kasharu
+    Katerero
+    Katoma
+    Katoro
+    Kemondo
+    Kibirizi
+    Kikomero
+    Kishanje
+    Kishogo
+    Kyamulaile
+    Maruku
+    Mikoni
+    Mugajwale
+    Nyakato
+    Nyakibimbili
+    Rubafu
+    Rubale
+    Ruhunga
+    Rukoma
+
+
+    >>>>>>>Bukoba Municipal
+    Bakoba
+    Bilele
+    Buhemba
+    Hamugembe
+    Ijuganyondo
+    Kagondo
+    Kahororo
+    Kashai
+    Kibeta
+    Kitendaguroward
+    Miembeni
+    Nshambya
+    Nyanga
+    Rwamishenye
+
+    >>>>>>Karagwe District 
+    Rugu
+    Nyaasimbi
+    Nyakabanga
+    Nyakakika
+    Nyaahanga
+    Nyaishozi
+    Nyabiyonza
+    Ndama
+    Kituntu
+    Kiruruma
+    Kamagambo
+    Kihanga
+    Kibondo
+    Kayanga
+    Kanoni
+    Ihembe
+    Ihanda
+    Igurwa
+    Bweranyange
+    Bugene
+
+    >>>>>>Kyerwa District 
+    Bugomora
+    BUSINDE
+    Isingiro
+    Kaisho
+    Kamuli
+    Kibale
+    Kibingo
+    Kikukuru
+    Kimuli
+    Kyerwa
+    Mabira
+    Murongo
+    Nkwenda
+    Nyakatuntu
+    Rukuraijo
+    Rutunguru
+    Rwabwere
+    Songambele
+    Kitwechenkura
+
+    >>>>>>Missenyi District
+    Bugandika
+    Bugorora
+    Buyango
+    Bwanjai
+    Gera
+    Ishozi
+    Ishunju
+    Kakunyu
+    Kanyigo
+    Kashenye
+    Kassambya
+    Kilimilile
+    Kitobo
+    Kyaka
+    Mabale
+    Minziro
+    Mushasha
+    Mutukula
+    Nsunga
+    Ruzinga
+
+    >>>>>>Muleba District
+    Bisheke
+    Biirabo
+    Buganguzi
+    Bulyakashaju
+    Bumbile
+    Burungura
+    Goziba
+    Ibuga
+    Ijumbi
+    Ikondo
+    Izigo
+    Kabirizi
+    Kagoma
+    Kamachumu
+    Karambi
+    Kasharunga
+    Kashasha
+    Kibanga
+    Kimwani
+    Kishanda
+    Kyebitembe
+    Magata Karutanga
+    Mazinga
+    Mubunda
+    Muhutwe
+    Muleba
+    Muyondwe
+    Ngenge
+    Nshamba
+    Ruhanga
+    Rushwa
+
+    >>>>>>Ngara District 
+    Bukiriro
+    Bugarama
+    Kabanga
+    Kanazi
+    Kibimba
+    Kirushya
+    Keza
+    Mabawe
+    Muganza
+    Mugoma
+    Murusagamba
+    Ngara Mjini
+    Ntobeye
+    Nyakisasa
+    Nyamiyaga
+    Rulenge
+    Rusumo
+    Mbuba
+
+########Kasikazini Pemba #####
+    >>>>Micheweni District
+    Kinowe
+    Kiuyu Maziwa Ng'ombe
+    Konde
+    Mgogoni
+    Micheweni
+    Msuka
+    Shumba Viamboni
+    Tumbe
+    Wingwi Mapofu
+    Wingwi Njuguni
+
+    >>>>Wete District 
+    Bopwe
+    Fundo
+    Gando
+    Jadida
+    Kangagani
+    Kipangani
+    Kisiwani
+    Kizimbani
+    Kojani
+    Limbani
+    Mchanga Mdogo
+    Mtambwe
+    Ole
+    Pandani
+    Selemu
+    Shengejuu
+    Utaani
+
+#######Kasikazini Unguja ####
+    >>>>>Kaskazini A District 
+    Bandamaji
+    Chaani Kubwa
+    Chaani Masingini
+    Fukuchani
+    Gamba
+    Kandwi
+    Kibeni
+    Kidoti
+    Kigunda
+    Kijini
+    Kikobweni
+    Kinyasini
+    Kivinge
+    Matemwe
+    Mchena Shauri
+    Mkokotoni
+    Mkwajuni
+    Moga
+    Mto Pwani
+    Muwange
+    Nungwi
+    Pale
+    Pitanazako
+    Potoa
+    Pwani Mchangani
+    Tazari
+    Tumbatu Gomani
+    Tumbatu Jongowe
+
+    >>>>>>Kaskazini B District 
+    Done Mchagani
+    Donge Karange
+    Donge Kipange
+    Donge Mbiji
+    Donge Mnyimbi
+    Donge Mtambile
+    Donge Vijibweni
+    Fujoni
+    Kinduni
+    Kiomba Mvua
+    Kiombero
+    Kitope
+    Kiwengwa
+    Mahonda
+    Makoba
+    Manga Pwani
+    Mgambo
+    Misufini
+    Mkadini
+    Muwanda
+    Pangeni
+    Upenja
+    Zingwe Zingwe
+
+#########Katavi Region ########
+    >>>>>>Mlele District
+    Ikuba
+    Ilela
+    Inyonga
+    Itenka
+    Kapalala
+    Kasansa
+    Kasokola
+    Kibaoni
+    Litapunga
+    Machimboni
+    Magamba
+    Majimoto
+    Mamba
+    Mbede
+    Mtapenda
+    Mwamapuli
+    Nsekwa
+    Nsimbo
+    Sitalike
+    Ugalla
+    Urwira
+    Usevya
+    Utende
+
+    >>>>>>Mpanda District 
+    Ikola
+    Ilembo
+    Kabungu
+    Kakese
+    Kapalamsenga
+    Karema
+    Kashaulili
+    Katuma
+    Kawajanse
+    Makanyagio
+    Mishamo
+    Misunkumilo
+    Mpanda Hotel
+    Mpanda Ndogo
+    Mwese
+    Nsemulwa
+    Shanwe
+    Sibwesa
+
+########Kigoma Region ###########
+    >>>>Buhigwe District 
+    Biharu
+    Buhigwe 
+    Janda 
+    Kajana 
+    Kibande
+    Kilelema
+    Mugera
+    Muhinda
+    Munanila
+    Munyegera
+    Munzeze
+    Muyama
+    Mwayaya
+    Nyamugali
+    Rusaba
+
+   >>>>> Kakonko District
+    Gwarama
+    Gwanumpu
+    Kakonko
+    Kasanda
+    Kasuga
+    Katanga
+    Kiziguzigu
+    Mugunzu
+    Muhange
+    Kanyonza
+    Nyabibuye
+    Nyamtukuza
+    Rugenge
+
+    >>>>>Kasulu District 
+    Buhigwe
+    Buhoro
+    Heru Ushingo
+    Janda
+    Kagera Nkanda
+    Kajana
+    Kasulu Mjini
+    Kigondo
+    Kilelema
+    Kitagata
+    Kitanga
+    Kwaga
+    Msambara
+    Muhinda
+    Muhunga
+    Munanila
+    Munyegera
+    Murufiti
+    Muyama
+    Muzenze
+    Muzye
+    Nyakitonto
+    Nyamidaho
+    Nyamnyusi
+    Nyamugali
+    Ruhita
+    Rungwe Mpya
+    Rusaba
+    Rusesa
+    Titye
+
+   >>>>> Kasulu Town 
+	Kasulu Mjini	
+	Kigondo	
+	Msambara	
+	Muganza
+	Muhunga	
+	Murufiti
+	Nyansha
+	Nyumbigwa	
+	Ruhita	
+
+    >:>>>Kibondo District 
+	    Bunyambo
+    Busagara
+    Kitale Ward
+    Itaba
+    Kibondo Mjini
+    Kitahana
+    Kagezi
+    Busunzu
+    Kizazi
+    Kumsenga
+    Mabamba
+    Kumwambu
+    Misezero
+    Bukabuye
+    Murungu
+    Nyaruyoba
+    rusohoko
+    Turana ward
+    Rugongwe
+
+   >>>> Kigoma-Ujiji Municipal 
+	Bangwe | 
+	Buhanda |
+	 Businde | 
+	Buzebazeba | 
+	Gungu | 
+	Kagera |
+	 Kasimbu | 
+	Kasingirima |
+	 Katubuka | 
+	Kibirizi | 
+	Kigoma | 
+	Kipampa | 
+	Kitongoji | 
+	Machinjoni | 
+	Majengo | 
+	Mwanga Kaskazini |
+	 Mwanga Kusini | 
+	Rubuga |
+	Rusimbi 
+   >>>> Uvinza District 
+	Buhingu | Igalula | Ilagala | Itebula | Kalya | Kandaga | Kazuramimba | Mganza | Mtego wa Noti | Nguruka | Sigunga | Simbo | Sunuka | Uvinza 
+
+########3Kilimanjaro Region ##########
+    >>>Hai District 
+    Hai Mjini
+    Machame Kaskazini
+    Machame Kusini
+    Machame Magharibi
+    Machame Mashariki
+    Machame Uroki
+    Masama Kusini
+    Masama Magharibi
+    Masama Mashariki
+    Masama Rundugai
+
+    >>>Moshi District
+    Arusha Chini
+    Kahe
+    Kahe Mashariki
+    Kibosho Kati
+    Kibosho Magharibi
+    Kibosho Mashariki
+    Kilema Kaskazini
+    Kilema Kati
+    Kilema Kusini
+    Kimochi
+    Kindi
+    Kirima
+    Kirua Vunjo Kusini
+    Kirua Vunjo Magharibi
+    Kirua Vunjo Mashariki
+    Mamba Kaskazini
+    Mamba Kusini
+    Marangu Magharibi
+    Marangu Mashariki
+    Mabogini
+    Makuyuni
+    Mbokomu
+    Mwika Kaskazini
+    Mwika Kusini
+    Okoani
+    Old Moshi Magharibi
+    Old Moshi Mashariki
+    Uru Mashariki
+    Uru Shimbwe
+    Uru Kusini
+    Uru Kaskazini
+
+    >>>Moshi Municipal 
+    Bondeni
+    Kaloleni
+    Karanga
+    Kiboriloni
+    Kilimanjaro
+    Kiusa
+    Korongoni
+    Longuo
+    Majengo
+    Mawenzi
+    Mji Mpya
+    Msaranga
+    Njoro
+    Rau
+    Pasua
+    Ng'ambo
+    Mfumuni
+    Miembeni
+    Soweto
+    Boma Mbuzi
+    Shirimatunda	
+
+    >>>Mwanga District 
+   Chomvu
+    Jipe
+    Kifula
+    Kighare
+    Kileo
+    Kilomeni
+    Kirongwe
+    Kirya
+    Kwakoa
+    Lang'ata
+    Lembeni
+    Msangeni
+    Mwanga
+    Mwaniko
+    Ngujini
+    Shigatini
+    Toloha
+    Kivisini
+    Mgagao
+    Kigonigoni
+
+    >>>Rombo District 
+    Aleni
+    Holili
+    Katangara Mrere
+    Kelamfua Mokala
+    Keni Mengeni
+    Kirongo Samanga
+    Kirwa Keni
+    Kisale Msaranga
+    Kitirima Kingachi
+    Mahida
+    Makiidi
+    Mamsera
+    Manda
+    Marangu Kitowo
+    Mengwe
+    Motamburu Kitendeni
+    Mrao Keryo
+    Nanjara Reha
+    Ngoyoni
+    Olele
+    Shimbi
+    Tarakea Motamburu
+    Ubetu Kahe
+    Ushiri Ikuini	
+
+    >>>Same District 
+    Bangalala
+    Bombo
+    Bendera
+    Bwambo
+    Chome
+    Hedaru
+    Mabilion
+    Kihurio
+    Kirangare
+    Kisiwani
+    Makanya
+    Maore
+    Mhezi
+    Mpinji
+    Mshewa
+    Msindo
+    Mtii
+    Mwembe
+    Myamba
+    Ndungu
+    Kalemawe
+    Njoro
+    Vumari
+    Ruvu
+    Same
+    Kisima
+    Steshen
+    Suji
+    Vudee
+    Vuje
+    Vunta
+    Lugulu
+
+    >>>Siha District 
+    Biriri
+    Gararagua
+    Naeny
+    Karansi
+    Kashashi
+    Livishi
+    Makiwaru
+    Nasai
+    Ndumeti
+    Ngarenairobi
+    Olkolili
+    Sanya Juu
+
+####Kusini Pemba ########
+   >>> Chake Chake 
+	Chachani | Chanjaani | Chonga (Chakechake) | Kilindi (Chakechake) | Kwale (Chakechake) | Matale (Chakechake) | Mgelema | Mvumoni | Ndagoni | Ng'ambwa (Pemba) | Pujini | Shungi | Tibirinzi | Uwandani | Vitongoji (Chakechake) | Wara | Wawi | Wesha | Ziwani (Chakechake) 
+
+    >>>>Mkoani 
+	Chambani | Chokocho | Chumbageni (Pemba) | Kangani | Kengeja | Kisiwa Panza | Kiwani | Makombeni | Makoongwe | Mbuguani | Michenzani | Mizingani | Mkanyageni | Mtambile | Mtangani | Muambe | Ngombeni | Ngwachani | Shidi | Ukutini | Uweleni | Wambaa 
+
+####Kusini Unguja #####
+    >>>>Kati District 
+Bambi | Binguni | Bungi | Charawe | Cheju | Chwaka | Dunga Bweni | Dunga Kiembeni | Ghana (Unguja) | Jendele | Jumbi | Kiboje Mkwajuni | Kiboje Mwembe Shauri | Kidimni | Kikungwi | Koani | Machui | Marumbi | Mchangani (Kati Unguja) | Mgeni Haji | Michamvi | Mitakawani | Miwani (Unguja) | Mpapa (Unguja) | Ndijani | Ng'ambwa (Unguja) | Pagali | Pongwe (Unguja) | Tunduni | Tunguu | Ubago | Ukongoroni | Umbuji | Unguja Ukuu Kaebona | Unguja Ukuu Kaepwani | Uroa | Uzi (Unguja) | Uzini 
+
+    >>>Kusini District 
+Bwejuu | Jambiani Kibigija | Jambiani Kikadini | Kajengwa | Kibuteni | Kijini | Kitogani | Kizimkazi Dimbani | Kizimkazi Mkunguni | Mtende | Muungoni | Muyuni 'A' | Muyuni 'B' | Muyuni 'C' | Mzuri (Unguja) | Nganani | Paje | Pete (Unguja) 
+
+	
+##########Lindi Region ##########
+    >>>>>Kilwa District
+	    Chumo
+    Kandawale
+    Kinjumbi
+    Kikole
+    Kipatimu
+    Kiranjeranje
+    Kilwa Kivinje (Township) formerly Kivinje Singino
+    Lihimalyao
+    Likawage
+    Mandawa
+    Kilwa Masoko (Township)
+    Miguruwe
+    Mingumbi
+    Miteja
+    Mitole
+    Nanjirinji
+    Njinjo
+    Pande
+    Songo songo
+    Tingi
+    Kibata
+    Somanga
+    Namayuni
+
+    >>>>>Lindi District 
+	
+
+    Chiponda
+    Kilangala
+    Kilolambwani
+    Kitomanga
+    Kiwalala
+    Kiwawa
+    Longa
+    Majengo
+    Mandwanga
+    Matimba
+    Mchinga
+    Milola
+    Mipingo
+    Mnara
+    Mnolela
+    Mtama
+    Mtua
+    Mtumbya
+    Nachunyu
+    Nahukahuka
+    Namangwale
+    Namupa
+    Nangaru
+    Navanga
+    Nyangamara
+    Nyangao
+    Nyengedi
+    Pangatena
+    Rutamba
+    Sudi
+
+    >>>>>Lindi Municipal 
+    Ndoro
+    Makonde
+    Mikumbi
+    Mitandi
+    Rahaleo
+    Mwenge
+    Matopeni
+    Wailes
+    Nachingwea
+    Rasbura
+    Mtanda
+    Jamhuri
+    Msinjahili
+    Mingoyo
+    Ng'apa
+    Tandangongoro
+    Chikonji
+    Mbanja
+
+    >>>>>Liwale District
+      Barikiwa
+    Kiangara
+    Kibutuka
+    Kimambi
+    Liwale 'B'
+    Liwale Mjini
+    Makata
+    Mangirikiti
+    Mbaya
+    Mihumo
+    Mirui
+    Mkutano (English meaning: meeting)
+    Mlembwe
+    Mpigamiti
+    Nangano
+    Ngongowele
+    Likongowele
+    Nangando
+    Lilombe
+    Kichonda
+
+    >>>>>Nachingwea District 
+    Chiola
+    Kiegei
+    Kilima Rondo
+    Kilimani Hewa
+    Kipara Mnero
+    Lionja
+    Marambo
+    Matekwe
+    Mbondo
+    Mkoka
+    Mkotokuyana
+    Mnero Miembeni
+    Mnerongongo
+    Mpiruka
+    Mtua
+    Naipanga
+    Naipingo
+    Namapwia
+    Namatula
+    Nambambo
+    Namikango
+    Nangowe
+    Nditi
+    Ndomoni
+    Ruponda
+    Stesheni
+
+    >>>>>Ruangwa District 
+	    Chibula
+    Chienjere
+    Chinongwe
+    Chunyu
+    Likunja
+    Luchelegwa
+    Makanjiro
+    Malolo
+    Mandarawe
+    Mandawa
+    Matambarale
+    Mbekenyera
+    Mnacho
+    Nachingwea
+    Nambilanje
+    Namichiga
+    Nandagala
+    Nanganga
+    Narung'ombe
+    Nkowe
+    Ruangwa
+
+######Manyara Region ######
+    >>>>Babati Town 
+
+    Babati
+    Bagara
+    Bonga
+    Maisaka
+    Mutuka
+    Nangara
+    Sigino
+    Singe
+
+    >>>Babati District
+    Arri
+    Ayasanda
+    Bashnet
+    Boay
+    Dabil
+    Dareda
+    Duru
+    Endakiso
+    Gallapo
+    Gidas
+    Kiru
+    Madunga
+    Magara
+    Magugu
+    Mamire
+    Mwada
+    Nar
+    Nkaiti
+    Qash
+    Riroda
+    Ufana
+
+    >>>>Hanang District 
+    Balagidalalu
+    Bassodesh
+    Bassotu
+    Dirma
+    Endasak
+    Endasiwold
+    Ganana
+    Gehandu
+    Gendabi
+    Getanuwas
+    Gidahababieg
+    Gisambalang
+    Giting
+    Hidet
+    Hirbadaw
+    Katesh
+    Laghanga
+    Lalaji
+    Masakta
+    Maskron
+    Masqaroda
+    Mogitu
+    Nangwa
+    Simbay
+    Sirop
+
+    >>>>Kiteto District 
+    Bwagamoyo
+    Dongo
+    Dosidosi
+    Engusero
+    Kibaya
+    Kijungu
+    Lengatei
+    Makame
+    Matui
+    Ndedo
+    Njoro
+    Olboloti
+    Partimbo
+    Songambele
+    Sunya
+    Loolera
+    Magungu
+    Chapakazi
+    Namelock
+    Ndirigishi
+    Kaloleni
+    Bwawani
+    Laiseri
+
+    >>>>Mbulu District 
+	Ayamaami | Ayamohe | Bargish | Bashay | Daudi | Dinamu | Dongobesh | Endagikot | Endamilay | Eshkesh | Gehandu | Geterer | Gidihim | Gunyoda | Hayderer | Haydom | Imboru | Kainam | Maghang | Marang | Maretadu | Masieda | Masqaroda | Murray (Mbulu) | Nahasey | Nambisi | Sanu Baray | Tlawi | Tumati | Uhuru | Yaeda Ampa | Yaeda Chini 
+
+    >>>Simanjiro District 
+	Emboreet | Endiamtu | Endonyongijape | Kitwai | Komolo | Loiborsoit | Loiborsiret | Mererani | Msitu wa Tembo | Naberera | Naisinyai | Ngorika | Oljoro No.5 | Orkesumet | Ruvu Remit | Shambarai | Terrat 
+
+	
+#######Mara Region ######
+    >>>>Bunda District 
+    Balili
+    Bunda Mjini
+    Bunda Stoo
+    Butimba
+    Chitengule
+    Guta
+    Hunyari
+    Igundu
+    Iramba
+    Kabasa
+    Kasuguti
+    Ketare
+    Kibara
+    Kisorya
+    Kunzugu
+    Mcharo
+    Mihingo
+    Mugeta
+    Namhula
+    Nampindi
+    Nansimo
+    Neruma
+    Nyamang'uta
+    Nyamuswa
+    Nyasura
+    Salama
+    Sazira
+    Wariku
+
+
+    >>>>>Butiama District 
+	
+    Bisumwa
+    Buhemba
+    Bukabwa
+    Buruma
+    Busegwe
+    Bumangi
+    Buswahili
+    Butiama
+    Butuguri
+    Bwiregi
+    Etaro
+    Kukirango
+    Kyanyari
+    Masaba
+    Mirwa
+    Muriaza
+    Nyakatende
+    Nyamimange
+    Nyankanga
+    Nyegina
+    Sirorisimba
+
+
+    >>>>Musoma District 
+    Bugwema
+    Bukima
+    Bukumi
+    Bulinga
+    Busambara
+    Bwasi
+    Kiriba
+    Makojo
+    Mugango
+    Murangi
+    Nyambono
+    Nyamrandirira
+    Suguti
+    Tegeruka
+
+    >>>>Musoma Municipal 
+    Buhare
+    Bweri
+    Iringo
+    Kamunyonge
+    Kigera
+    Kitaji
+    Makoko
+    Mukendo
+    Mwigobero
+    Mwisenge
+    Nyakato
+    Nyamatare
+    Nyasho
+
+    >>>>Rorya District
+	Bukura * Bukwe * Goribe * Ikoma * Kigunga * Kirogo * Kisumwa * Kitembe * Komuge * Koryo * Kyang'ombe * Mirare * Mkoma * Nyahongo * Nyamagaro * Nyamtinga * Nyamunga * Nyathorogo * Rabour * Roche * Tai 
+
+    >>>>Serengeti District 
+
+    Busawe
+    Geitasamo
+    Ikoma
+    Issenye
+    Kebanchabancha
+    Kenyamonta
+    Kisaka
+    Kisangura
+    Kyambahi
+    Machochwe
+    Magange
+    Majimoto
+    Manchira
+    Mbalibali
+    Morotonga
+    Mosongo
+    Mugumu
+    Natta
+    Nyamatare
+    Nyambureti
+    Nyamoko
+    Nyansurura
+    Rigicha
+    Ring'wani
+    Rung'abure
+    Sedeco
+    Stendi Kuu
+    Uwanja wa Ndege
+
+    >>>>Tarime District 
+    Binagi
+    Bomani
+    Bumera
+    Genyange
+    Gorong'a
+    Itiryo
+    Kemambo
+    Kentare
+    Kibasuka
+    Kiore
+    Komaswa
+    Manga
+    Matongo
+    Mbogi
+    Muriba
+    Mwema[6]
+    Nyakonga
+    Gwitiryo
+    Nyamisangura
+    Nyamwaga
+    Nyangoto
+    Nyamongo
+    Nyansicha
+    Nyanungu
+    Nyarero
+    Nyarokoba
+    Nyabichune
+    Mjini Kati[7]
+    Pemba
+    Sabasaba
+    Sirari
+    Susuni
+    Turwa
+	
+####### Mbeya Region ######
+    >>>>Busokelo District 
+	Isange | Itete | Kabula | Kambasegela | Kandete | Kisegese | Lufilyo | Lupata | Luteba | Lwangwa | Mpata | Mpombo | Ntaba 
+
+   >>>> Chunya District 
+	    Chalangwa
+    Chokaa
+    Ifumbo
+    Itewe
+    Galula
+    Gua
+    Kambikatoto
+    Kanga
+    Kapalala
+    Lupa Tingatinga
+    Luwalaje
+    Mafyeko
+    Makongorosi
+    Mamba
+    Matwiga
+    Mbangala
+    Mbugani
+    Mbuyuni
+    Mkwajuni
+    Mtanila
+    Namkukwe
+    Ngwala
+    Totowe
+
+    >>>>Kyela District 
+	    Bujonde
+    Busale
+    Ikama
+    Ikimba
+    Ikolo
+    Ipande
+    Ipinda
+    Kajunjumele
+    Katumba Songwe
+    Kyela Mjini
+    Lusungo
+    Makwale
+    Matema
+    Mwaya
+    Ngana
+    Ngonga
+
+   >>>>> Mbarali District
+	    Chimala
+    Itamboleo
+    Igava
+    Imalilo Songwe
+    Ihahi
+    Lugelele
+    Igurusi
+    Madibira
+    Mahongole
+    Mapogoro
+    Mawindi
+    Luhanga
+    Kongolo
+    Mwatenga
+    Miyombweni
+    Ipwani
+    Ruiwa
+    Rujewa
+    Ubaruku
+    Utengule/Usangu
+
+    >>>>>Mbeya City 
+    Forest
+    Ghana
+    Iduda
+    Iganjo
+    Iganzo
+    Igawilo
+    Ilemi
+    Ilomba
+    Isanga
+    Isyesye
+    Itagano
+    Itende
+    Itezi
+    Itiji
+    Iwambi
+    Iyela
+    Iyunga
+    Iziwa
+    Kalobe
+    Maanga
+    Mabatini
+    Maendeleo (English meaning: progress)
+    Majengo (English meaning: buildings)
+    Mbalizi Road
+    Mwakibete
+    Mwansekwa
+    Mwansanga
+    Nonde
+    Nsalaga
+    Nsoho
+    Nzovwe
+    Ruanda
+    Sinde
+    Sisimba
+    Tembela
+    Uyole
+
+    >>>>Mbeya District 
+    Bonde la Usongwe
+    Igale
+    Ihango
+    Ijombe
+    Ikukwa
+    Ilembo
+    Ilungu
+    Inyala
+    Isuto
+    Iwiji
+    Iwindi
+    Iyunga Mapinduzi
+    Mshewe
+    Santilya
+    Tembela
+    Ulenje
+    Utengule Usongwe
+    Mjele
+    Shizuvi
+    Izyira
+    Nsalala
+    Maendeleo
+    Lwanjiro
+    Swaya
+    Itawa
+    Igoma
+    Itewe
+    Masoko
+
+    >>>>Rungwe District
+	
+
+    Bagamoyo Ward
+    Bujela
+    Bulyaga
+    Ibigi
+    Ikuti
+    Ilima
+    Iponjela
+    Isongole
+    Itagata
+    Kawetele
+    Kinyala
+    Kisiba
+    Kisondela
+    Kiwira
+    Kyimo
+    Lufingo
+    Lupepo
+    Makandana
+    Malindo
+    Msasani Ward
+    Masebe
+    Masoko, Ward
+    Masukulu
+    Matwebe
+    Mpuguso
+    Ndato
+    Swaya
+    Suma
+
+###### Mjini Magharibi Region #####
+    >>>Magharibi District 
+Bububu | Bumbwisudi | Bweleo | Chuini | Chukwani | Dimani | Dole | Fumba | Fuoni Kibondeni | Fuoni Kijitoupele | Kama | Kianga | Kiembe Samaki | Kizimbani | Kombeni | Magogoni | Maungani | Mbuzini | Mfenesini | Mto Pepo | Mtoni | Mtoni Kidatu | Mwakaje | Mwanakwerekwe | Mwanyanya | Mwera | Shakani | Tomondo | Welezo 
+
+    >>>Mjini District
+Amaani | Chumbuni | Gulioni | Jang'ombe | Karakana | Kidongo Chekundu | Kikwajuni Bondeni | Kikwajuni Juu | Kilimahewa | Kilimani | Kiponda | Kisima Majongoo | Kwaalamsha | Kwaalinato | Kwahani | Kwamtipura | Magomeni | Makadara | Malindi | Matarumbeta | Mchangani | Miembeni | Mikunguni | Mkele | Mkunazini | Mlandege | Mpendae | Muembe Ladu | Muembe Makumbi | Muungano | Mwembeshauri | Mwembetanga | Nyerere | Rahaleo | Sebleni | Shangani | Shaurimoyo | Sogea | Urusi | Vikokotoni 
+
+
+########Morogoro Region #####
+    >>>Gairo District 
+    Gairo
+    Mandege
+    Rubeho
+    Chagongwe
+    Chanjale
+    Kibedya
+    Chakwale
+    Iyogwe
+
+    >>>Kilombero District 
+Ching'anda | Chisano | Chita | Idete | Ifakara | Igima | Kalengakelo | Kamwene | Katindiuka | Kibaoni | Kiberege | Kidatu | Kisawasawa | Lipangalala | Lumemo | Mang’ula 'B' | Mang'ula | Masagati | Mbasa | Mbingu | Mchombe | Michenga | Mkula | Mlabani | Mlimba | Mngeta | Mofu | Msolwa Station | Mwaya | Namwawala | Sanje | Signal | Utengule (Kilombero) | Viwanja Sitini
+
+    >>>Kilosa District
+    Berega
+    Chanzuru
+    Dumila
+    Kasiki
+    Kidete
+    Kidodi
+    Kilangali
+    Kimamba 'A'
+    Kimamba 'B'
+    Kisanga
+    Lumbiji
+    Luhembe
+    Lumuma
+    Mabwerebwere
+    Magole
+    Magomeni
+    Magubike
+    Malolo (Tanzania)
+    Mamboya
+    Masanze
+    Mbumi
+    Mikumi
+    Mkwatani
+    Msowero
+    Rudewa
+    Ulaya
+    Uleling'ombe
+    Vidunda
+    Zombo
+    Mamoyo
+
+    >>>Morogoro District
+    Bwakila Chini
+    Bwakila Juu
+    Kasanga
+    Kibogwa
+    Kibungo Juu
+    Kidugalo
+    Kinole
+    Kiroka
+    Kisaki
+    Kisemu
+    Kolero
+    Lundi
+    Mikese
+    Mkambalani
+    Mkulazi
+    Mkuyuni
+    Mngazi
+    Mvuha
+    Mtombozi
+    Ngerengere
+    Selembala
+    Singisa
+    Tawa
+    Tegetero
+    Tununguo
+    Gwata
+    Konde
+    Bungu
+    Matuli
+
+    >>>>Morogoro Municipal
+	    Bigwa
+    Boma 
+    Chamwino
+    Kauzeni
+    Kichangani
+    Kihonda
+    Kihonda Magorofani
+    Kilakala 
+    Kingo
+    Kingolwira
+    Kiwanja cha Ndege
+    Luhungo
+    Lukobe
+    Mafiga
+    Mafisa
+    Magadu
+    Mazimbu
+    Mbuyuni
+    Mindu
+    Mkundi
+    Mlimani 
+    Mwembesongo
+    Mzinga
+    Sabasaba 
+    Sultan Area
+    Tungi
+    Uwanja wa Taifa
+
+    >>>>Mvomero District
+	    Bunduki
+    Luale
+    Diongoya
+    Doma
+    Hembeti
+    Kanga
+    Kibati
+    Kikeo
+    Kweuma
+    Langali
+    Maskati
+    Melela
+    Mhonda
+    Mlali
+    Mtibwa
+    Mkindo
+    Mvomero
+    Mzumbe
+    Nyandira
+    Tchenzema
+    Mgeta
+    Msongozi
+    Mangaye
+    Homboza
+    Lubungo
+    Dakawa
+    Kinda
+    Pemba
+    Mziha
+    Sungaji
+
+   >>>> Ulanga District 
+    Chirombola
+    Euga
+    Ilonga
+    Iragua
+    Isongo
+    Ketaketa
+    Kichangani
+    Lukande
+    Lupiro
+    Mahenge
+    Mawasiliano
+    Mbuga
+    Milola
+    Minepa
+    Msogezi
+    Mwaya
+    Nawenge
+    Ruaha
+    Sali
+    Uponera
+    Vigoi
+
+    >>>>Malinyi District 
+	Biro | Igawa | Itete | Kilosa Mpepo | Malinyi | Mtimbira | Ngoheranga | Njiwa | Sofi | Usangule 
+	
+########Mtwara Region ######
+    >>>Masasi District 
+    Chigugu
+    Chiungutwa
+    Lipumburu
+    Lukuledi
+    Lulindi
+    Mbuyuni
+    Mchaura
+    Mkululu
+    Mkundi
+    Mnavira
+    Mpindimbi
+    Mwena
+    Namajani
+    Namalenga
+    Namatutwe
+    Nanganga
+    Nanjota
+    Sindano
+
+    >>>> Masasi Town 
+Chanikanguo | Jida | Marika | Migongo | Mkomaindo | Mkuti | Mtandi | Mumbaka | Mwenge | Mwenge Mtapika | Napupa | Nyasa | Sululu | Temeke 
+
+    >>>>Mtwara District 
+Dihimba | Kitere | Libobe | Lipwidi | Madimba | Mahurunga | Mangopachanne | Mayanga | Mbawala (Mtwara) | Mkunwa | Moma | Mpapura | Msanga Mkuu | Msimbati | Muungano | Nalingu | Nanguruwe | Naumbu | Ndumbwe | Tangazo (Mtwara) | Ziwani 
+
+    >>>Mtwara Municipal
+Chikongola | Chuno | Jangwani | Kisungule | Likombe | Magengeni | Majengo | Mitengo | Mtawanya | Mtonya | Naliendele | Rahaleo | Railway | Shangani | Tandika | Ufukoni | Vigaeni 
+
+    >>>>Nanyumbu District 
+Chipuputa | Likokona | Lumesule | Mangaka | Maratani | Masuguru (Nanyumbu) | Mikangaula | Mkonona | Mnanje | Nandete | Nangomba | Nanyumbu | Napacho | Sengenya 
+
+    >>>> Newala District 
+    Chilangala
+    Chitekete
+    Chiwonga
+    Kitangari
+    Luchingu
+    Makote
+    Makukwe
+    Malatu
+    Maputi
+    Mchemo
+    Mcholi I
+    Mcholi II
+    Mkoma II
+    Mkunye
+    Mkwedu
+    Mnekachi
+    Mnyambe
+    Mtopwa
+    Namiyonga
+    Nanguruwe
+
+    >>>> Tandahimba District 
+    Chaume
+    Chigungwe
+    Kishumundu
+    Kitama
+    Luagala
+    Lukokoda
+    Lyenje
+    Mahuta
+    Maundo
+    Michenjele
+    Mihambwe
+    Milongodi
+    Mdimba Mnyoma
+    Mkonjowano
+    Mkoreha
+    Mkwiti
+    Mnyawa
+    Namikupa
+    Nanhyanga
+    Naputa
+    Ngunja
+    Tandahimba
+
+####### Mwanza Region #####
+    >>>>Ilemela Municipal 
+	    Bugogwa
+    Buswelu
+    Buzuruga
+    Ilemela Ward
+    Ibungilo
+    Kawekamo
+    Kahama Ward
+    Kayenze
+    Kirumba
+    Kitangiri
+    Mecco
+    Nyakato
+    Nyamanoro
+    Nyamongoro
+    Nyasaka
+    Pasiansi
+    Sangabuye
+    Shibula
+    Kisekeleeee
+
+    >>>Kwimba District 
+    Bugando
+    Bungulwa
+    Bupamwa
+    Fukalo
+    Hungumalwa
+    Igongwa
+    Ilula Ward
+    Iseni
+    Kikubiji
+    Lyoma
+    Maligisu
+    Malya Ward
+    Mantare Ward
+    Mhande
+    Mwabomba
+    Mwagi
+    Mwakilambiti
+    Mwamala
+    Mwandu
+    Mwang'halanga
+    Mwankulwe
+    Ng'hundi
+    Ngudu
+    Ngulla
+    Nkalalo
+    Nyambiti
+    Nyamilama
+    Shilembo
+    Sumve
+    Walla
+
+    >>>>Magu District 
+    Bujashi
+    Bukandwe
+    Jinjimili
+    Kahangara
+    Kisesa
+    Kitongo Sim
+    Kongolo
+    Lubugu
+    Lutale
+    Magu Mjini (Magu town)
+    Mwamabanza
+    Mwamanga
+    Ng'haya
+    Nkungulu
+    Nyanguge
+    Nyigogo
+    Shishani
+    Sukuma
+
+    >>>>Misungwi District 
+    Buhingo
+    Bulemeji
+    Busongo
+    Fella
+    Gulumungu
+    Idetemya
+    Igokelo
+    Ilujamate
+    Isenengeja
+    Isesa
+    Kanyelele
+    Kasololo
+    Kijima
+    Koromije
+    Lubili
+    Mabuki
+    Mamaye
+    Misasi
+    Mbarika
+    Misungwi
+    Mondo
+    Mwaniko
+    Nhundulu
+    Shilalo
+    Sumbugu
+    Ukiriguru
+    Usagara
+
+    >>>Nyamagana Municipal 
+    Buhongwa
+    Butimba
+    Igogo
+    Igoma
+    Isamilo
+    Mahina
+    Mbugani
+    Mirongo
+    Mkolani
+    Mkuyuni
+    Nyamagana
+    Pamba
+    Kishiri
+
+    >>>>Sengerema District 
+    Bulyaheke
+    Bupandwa
+    Busisi
+    Buyagu
+    Buzilasoga
+    Chifunfu
+    Ibisabageni
+    Igalula
+    Igulumuki
+    Irenza shuleni
+    Kafunzo
+    Kagunga
+    Kalebezo
+    Kasenyi Ward
+    Kasungamile
+    Katunguru
+    Katwe Ward
+    Kazunzu
+    Kishinda
+    Lugata
+    Maisome
+    Mwabaluhi
+    Nyakaliro
+    Nyakasasa
+    Nyakasungwa
+    Nyamatongo
+    Nyamazugo
+    Nyampande
+    Nyampulukano
+    Nyanzenda
+    Nyatukara
+    Nyehunge
+    Sima Ward
+    Tabaruka
+
+    >>>>Ukerewe District 
+	Bukanda • Bukiko • Bukindo • Bukongo • Bukungu • Bwiro • Bwisya • Igalla • Ilangala • Irugwa • Kagera • Kagunguli • Kakerege • Mukituntu • Muriti • Murutunguru • Nakatunguru • Namagondo • Namilembe • Nansio • Nduruma • Ngoma • Nkilizya • Nyamanga 
+
+#######Njombe Region ######
+    >>>Ludewa District 
+	    Ibumi
+    Iwela
+    Kilondo
+    Lifuma
+    Luana
+    Ludende
+    Ludewa
+    Lugarawa
+    Luilo
+    Lumbila
+    Lupanga
+    Lupingu
+    Madilu
+    Madope
+    Makonde
+    Manda
+    Masasi
+    Mavanga
+    Mawengi
+    Milo
+    Mkongobaki
+    Mlangali
+    Mundindi
+    Nkomang'ombe
+    Ruhuhu
+    Lubonde
+
+   >>> Makambako Town
+Kitandililo | Lyamkena | Mahongole | Mjimwema | Mlowa (Makambako) | Mwembetogwa | Ubena (Makambako) | Utengule (Makambako) 
+
+    >>>>Makete District 
+Bulongwa | Ikuwo | Iniho | Ipelele | Ipepo | Isapulano | Itundu | Iwawa | Kigala | Kigulu | Kipagilo | Kitulo | Lupalilo | Lupila | Luwumbu | Mang'oto | Matamba | Mbalatse | Mfumbi | Mlondwe | Tandala | Ukwama 
+
+    >>>Njombe District 
+    Idamba
+    Igongolo
+    Ikondo
+    Ikuna
+    Kidegembye
+    Kitandililo
+    Lupembe
+    Mahongole
+    Mfriga
+    Matembwe
+    Matola
+    Mtwango
+    Ninga
+    Utengule
+
+   >>>> Njombe Town 
+	    Ihanga
+    Iwungilo
+    Kifanya
+    Lugenge
+    Luponde
+    Lyamkena
+    Matola
+    Mji Mwema
+    Mjimwema (A & B)
+    Mlowa
+    Mwembetogwa
+    Njombe Mjini
+    Ramadhani
+    Ubena
+    Utalingolo
+    Uwemba
+    Yakobi
+
+   >>>> Wanginge District 
+    Igima
+    Igosi
+    Ilembula
+    Imalinyi
+    Kidugala
+    Kijombe
+    Kipengele
+    Luduga
+    Makoga
+    Mdandu
+    Saja
+    Uhambule
+    Ulembwe
+    Usuka
+    Wangama
+    Wanging'ombe
+
+###### Pwani Region######
+   >>> Bagamoyo District 
+Bago
+Chalinze
+Chasimba
+Dunda
+Kibindu
+Kiromo
+Kiwangwa
+Kongo
+Lugoba
+Magomeni
+Masuguru
+Matimbwa
+Msata
+Msinune
+Mwavi
+Yombo
+Zinga
+Mkange
+Saadani
+Matipwili
+Miono
+Mandamazingara
+Mandera
+Kimange
+
+    >>>Kibaha District 
+    Kibaha
+    Kwala
+    Magindu
+    Maili Mmoja
+    Mlandizi
+    Ruvu
+    Soga
+    Tumbi
+    Visiga
+    Picha ya Ndege
+
+  >>>>  Kibaha Town 
+Kibaha | Kongowe | Maili Moja | Mbwawa | Misugusugu | Mkuza | Msangani | Pangani | Picha ya Ndege | Sofu | Tangini | Tumbi | Visiga | Viziwaziwa 
+
+  >>>  Kisarawe District
+    Cholesamvula
+    Kibuta
+    Kiluvya
+    Kisarawe
+    Kuruhi
+    Mafinzi
+    Maneromango
+    Marui
+    Marumbo
+    Masaki
+    Msanga
+    Msimbu
+    Mzenga
+    Vihingo
+    Vikumbulu
+
+   >>> Mafia District
+Baleni • Jibondo • Kanga • Kiegeani • Kirongwe • Kilindoni • Miburani • Ndagoni 
+
+ >>>>   Mkuranga District 
+    Bupu
+    Kimanzichana
+    Kisiju
+    Kitomondo
+    Lukanga
+    Magawa
+    Mbezi
+    Mkamba
+    Mkuranga
+    Mwalusembe
+    Nyamato
+    Panzuo
+    Shungubweni
+    Tambani
+    Vikindu
+    Kiparang'anda
+    Njianne
+    Vianzi
+
+  >>>  Rufiji District
+ 	    Bungu
+    Chumbi
+    Ikwiriri
+    Kibiti
+    Kiongoroni
+    Mahege
+    Maparoni
+    Mbuchi
+    Mbwara
+    Mchukwi
+    Mgomba
+    Mkongo
+    Mtunda
+    Mwaseni
+    Ngorongo
+    Ruaruke
+    Salale
+    Umwe
+    Utete
+    Kilimani
+    Kipugila
+    Ngolongo
+
+#####Rukwa Region#####
+    >>>>Kalambo District 
+	Kasanga | Katazi | Katete | Kilesha | Kisumba | Legeza Mwendo | Mambwekenya | Matai | Mkali | Mkowe | Mnamba | Msanzi | Mwazye | Mwembenkoswe | Mwimbi | Sopa | Ulumi 
+
+    >>>>Nkasi District 
+    Chala
+    Isale
+    Kabwe
+    Kala
+    Kate
+    Kipande
+    Kipili
+    Kirando
+    Korongwe
+    Mkwamba
+    Mtenga
+    Namanyere
+    Ninde
+    Nkandasi
+    Nkomolo
+    Sintali
+    Wampembe
+
+    >>>Sumbawanga District
+    Kaengesa
+    Kalambazite
+    Kaoze
+    Kasanga
+    Katazi
+    Kipeta
+    Laela
+    Legezamwendo
+    Lusaka
+    Mambwekenya
+    Mambwenkoswe
+    Matai
+    Miangalua
+    Milepa
+    Mkowe
+    Mpui
+    Msanzi
+    Mtowisa
+    Muze
+    Mwazye
+    Mwimbi
+    Sandalula
+    Sopa
+
+    >>>>Sumbawanga Municipal
+    Chanji
+    Izia
+    Kasense
+    Katandala
+    Kizwite/Chanji
+    Majengo
+    Malangali
+    Matanga
+    Mazwi
+    Milanzi
+    Mollo
+    Ntendo
+    Old Sumbawanga
+    Pito
+    Senga
+
+####Ruvuma Region ######
+    >>>Mbinga District 
+    Chiwanda
+    Kigonsera
+    Kihagara
+    Kihangi Mahuka
+    Kilimani[4]
+    Kilosa
+    Kingerikiti
+    Kitura
+    Langiro
+    Liparamba
+    Lipingo
+    Linda
+    Litembo
+    Lituhi
+    Litumbandyosi
+    Liuli[5]
+    Maguu
+    Matiri
+    Mbaha
+    Mbamba Bay[6]
+    Mbangamao
+    Mbinga Urban
+    Mbuji
+    Mikalanga
+    Mkumbi
+    Mpapa
+    Mpepai
+    Mtipwili
+    Myangayanga
+    Ndongosi
+    Ngima
+    Ngumbo
+    Nyoni
+    Ruanda
+    Tingi
+    Ukata
+    Utiri
+    Kilindi 
+
+    >>>Songea District
+Kilagano | Kizuka | Liganga | Lilahi | Litapwasi | Litisha | Magagura | Maposeni | Matimira | Mbinga Mhalule | Mpandangindo | Mpitimbi | Muhukuru | Ndongosi | Parangu | Peramiho| 
+
+    >>>Songea Municipal
+    Bomba Mbili
+    Lizaboni
+    Majengo
+    Matarawe
+    Mateka
+    Matogoro
+    Mfaranyaki
+    Misufini
+    Mletele
+    Mshangano
+    Ruhuwiko
+    Ruvuma
+    Songea Mjini
+    Subira
+
+    >>>Tunduru District 
+    Kalulu
+    Kidodoma
+    Ligoma
+    Ligunga
+    Lukumbule
+    Marumba
+    Matemanga
+    Mbesa
+    Mchesi
+    Mchoteka
+    Mindu
+    Misechela
+    Mlingoti Magharibi (West)
+    Mlingoti Mashariki (East)
+    Mtina
+    Muhuwesi
+    Nakapanya
+    Nalasi
+    Namasakata
+    Nampungu
+    Namwinyu
+    Nandembo
+    Ngapa
+    Tuwemacho
+
+    >>>Namtumbo District
+    Kitanda
+    Ligera
+    Luchili
+    Luegu
+    Lusewa
+    Magazini
+    Msisima
+    Mgombasi
+    Mkongo Nakawale
+    Msindo
+    Namabengo
+    Namtumbo
+    Rwinga
+    Mchomoro
+    Hanga
+    Mputa
+    Likuyuseka
+    Lisimonji
+    Mkongo Gulioni
+    Litola
+    Limamu
+    Suluti
+    Mtonya
+    Nambecha
+    Mtwaro pachani
+
+    >>>Nyasa District 
+Chiwanda | Kihagara | Kilosa | Kingerikiti | Linga | Liparamba | Lipingo | Lituhi | Liuli | Liwundi | Luhangarasi | Lumeme | Mbaha | Mbambabay | Mipotopoto | Mpepo | Mtipwili | Ngumbo | Tingi | Upolo 
+
+####Shinyanga Region ######
+    >>>Kahama Town 
+Busoka | Isagehe | Iyenze | Kagongwa | Kahama Mjini | Kilago | Kinaga | Majengo | Malunga | Mhongolo | Mhungula | Mondo | Mwendakulima | Ngogwa | Nyahanga | Nyandekwa | Nyasubi | Nyihogo | Wendele | Zongomera 
+
+   >>>> Kahama District 
+
+    Busoka
+    Isagehe
+    Iyenze
+    Kagongwa
+    Kahama Mjini
+    Kilago
+    Kinaga
+    Majengo
+    Malunga
+    Mhongolo
+    Mhungula
+    Mondo
+    Mwendakulima
+    Ngogwa
+    Nyahanga
+    Nyandekwa
+    Nyasubi
+    Nyihogo
+    Wendele
+    Zongomera
+
+
+    >>>>Kishapu District 
+    Bubiki
+    Bunambiyu
+    Itilima
+    Kiloleli
+    Kishapu
+    Lagana
+    Masanga
+    Mondo
+    Mwadui Luhumbo
+    Mwakipoya
+    Mwamalasa
+    Mwamashele
+    Ngofila
+    Seke Bugoro
+    Shagihilu
+    Somagedi
+    Songwa
+    Talaga
+    Uchunga
+    Ukenyenge
+    mwataga
+
+   >>> Shinyanga District 
+    Didia
+    Ilola
+    Imesela
+    Iselamagazi
+    Itwangi
+    Lyabukande
+    Mwakitolyo
+    Mwamala
+    Mwantini
+    Pandagichiza
+    Salawe
+    Samuye
+    Solwa
+    Tinde
+    Usanda
+    Usule
+
+   >>>> Shinyanga Municipal 
+    Chamaguha
+    Chibe
+    Ibadakuli
+    Ibinzamata
+    Kambarage
+    Kitangili
+    Kizumbi
+    Nkolandoto
+    Mwamalili
+    Mwawaza
+    Ndala
+    Ngokolo
+    Shinyanga Mjini
+
+######Simiyu Region#####
+    >>>Bariadi District 
+    Bariadi
+    Bumera
+    Bunamhala
+    Chinamili
+    Dutwa
+    Gamboshi
+    Ikungulyabashashi
+    Kasoli
+    Kinang'weli
+    Lagangabilili
+    Lugulu
+    Mbita
+    Mhango
+    Mhunze
+    Mwadobana
+    Mwamapalala
+    Mwaswale
+    Mwaubingi
+    Nkololo
+    Nkoma
+    Nyakabindi
+    Sagata
+    Sakwe
+    Sapiwi
+    Somanda
+    Zagayu
+
+    >>>Busega District
+     Badugu
+    Igalukilo
+    Kabita
+    Kalemela
+    Kiloleli
+    Lamadi
+    Lutubiga
+    Malili
+    Mkula
+    Mwamanyili
+    Ngasamo
+    Nyaluhande
+    Shigala
+    Nyashimo Ward
+    Imalamate
+
+    >>>Itilima District 
+    Budalabujiga
+    Bumera
+    Chinamili
+    Ikindiro
+    Kinang'weli
+    Lagangabilili
+    Lugulu
+    Mbita
+    Mhunze
+    Migato
+    Mwalushu
+    Mwamapalala
+    Mwamtani
+    Mwaswale
+    Ndolelezi
+    Nhobora
+    Nkoma
+    Nkuyu
+    Nyamalapa
+    Sagata
+    Sawida
+    Zagayu
+
+
+    >>>Maswa District 
+    Badi
+    Binza
+    Buchambi
+    Budekwa
+    Busilili
+    Dakama
+    Ipililo
+    Isanga
+    Kadoto
+    Kulimi
+    Lalago
+    Malampaka
+    Masela
+    Mpindo
+    Mwamanenge
+    Mwamashimba
+    Mwang'honoli
+    Nguliguli
+    Ng'wigwa
+    Nyabubinza
+    Nyalikungu
+    Senani
+    Sengwa
+    Shishiyu
+    Sukuma
+    Zanzui
+
+
+    >>>Meatu District 
+
+    Bukundi
+    Imalaseko
+    Itinje
+    Kimali
+    Kisesa
+    Lingeka
+    Lubiga
+    Mwabuma
+    Mwabusalu
+    Mwabuzo
+    Mwakisandu
+    Mwamalole
+    Mwamanimba
+    Mwamanongu
+    Mwamishali
+    Mwandoya
+    Mwangundo
+    Mwanhuzi
+    Mwanjolo
+    Mwanyahina
+    Mwasengela
+    Nghoboko
+    Nkoma
+    Sakasaka
+    Tindabuligi
+
+ 
+###### Singida Region #####
+    >>>Ikungi District 
+Dung'unyi | Ighombwe | Iglansoni | Ihanja | Ikungi | Irisya | Iseke | Issuna | Iyumbu | Kikio | Kituntu | Lighwa | Makilawa | Makiungu | Mang'onyi | Mgungira | Minyughe | Misughaa | Mkiwa | Mtunduru | Muhintiri | Mungaa | Mwaru | Ntuntu | Puma | Sambaru | Sepuka | Siuyu | Unyahati 
+
+    >>>Iramba District 
+Kaselya | Kidaru | Kinampanda | Kiomboi | Kisiriri | Kyengege | Maluga | Mbelekese | Mgongo | Mtekente | Mtoa | Mukulu | Ndago | Ndulungu | Ntwike | Old Kiomboi | Shelui | Tulya | Ulemo | Urughu 
+
+    >>>Manyoni District 
+
+    Aghondi
+    Chikola
+    Chikuyu
+    Heka
+    Idodyandole
+    Ipande
+    Isseke
+    Itigi Majengo
+    Itigi Mjini
+    Kintinku
+    Kitaraka
+    Majiri
+    Makanda
+    Makuru
+    Makutopora
+    Manyoni
+    Mgandu
+    Mitundu
+    Mkwese
+    Muhalala
+    Mvumi
+    Mwamagembe
+    Nkonko
+    Rungwa
+    Sanjaranda
+    Sanza
+    Saranda
+    Sasajila
+    Sasilo
+    Solya
+
+
+    >>>Mkalama District
+     Gumanga
+    Ibaga
+    Iguguno
+    Ilunda
+    Kikhonda
+    Kinyangiri
+    Matongo
+    Miganga
+    Mpambala
+    Msingi 
+    Mwanga
+    Mwangeza
+    Nduguti
+    Nkinto
+    >>>Singida District
+    Ikhanoda
+    Ilongero
+    Itaja
+    Kijota
+    Kinyagigi
+    Kinyeto
+    Maghojoa
+    Makuro
+    Merya
+    Mgori
+    Mrama
+    Msange
+    Msisi
+    Mtinko
+    Mudida
+    Mughamo
+    Mughunga
+    Mwasauya
+    Ngimu
+    Ntonge
+    Ughandi
+
+    >>>Singida Municipal 
+    Ipembe
+    Kindai
+    Majengo
+    Mandewa
+    Minga
+    Misuna
+    Mitunduruni
+    Mtamaa
+    Mtipa
+    Mughanga
+    Mungumaji
+    Mwankoko
+    Unyianga
+    Uhamaka
+    Unyambwa
+    Unyamikumbi
+    Utemini
+
+
+####### Songwe Region ######
+    >>>Ileje District
+    Bupigu
+    Chitete
+    Ibaba
+    Ikinga
+    Isongole
+    Itale
+    Itumba
+    Kafule
+    Lubanda
+    Luswisi
+    Malangali
+    Mbebe
+    Ndola
+    Ngulilo
+    Ngulugulu
+    Sange
+
+    >>>Mbozi District
+    Chilulumo
+    Chitete
+    Chiwezi
+    Halungu
+    Igamba
+    Ihanda
+    Isandula
+    Isansa
+    Itaka
+    Ivuna
+    Iyula
+    Kamsamba
+    Kapele
+    Mlangali
+    Mlowo
+    Msangano
+    Msia
+    Myovizi
+    Myunga
+    Nambinzo
+    Ndalambo
+    Nkangamo
+    Nyimbili
+    Ruanda (Mbozi)
+    Vwawa
+
+    >>>Momba District
+Chilulumo | Chitete | Chiwezi | Ivuna | Kamsamba | Kapele | Mkomba | Mkulwe | Mpapa | Msangano | Myunga | Ndalambo | Nkangamo | Nzoka 
+
+    >>>Songwe District
+ Chang'ombe | Galula | Gua | Ifwenkenya | Kanga | Kapalala | Magamba | Manda | Mbangala | Mbuyuni | Mkwajuni | Mpona | Mwambani | Namkukwe | Ngwala | Saza | Totowe | Udinde 
+
+###### Tabora Region #####
+    >>>>Igunga District 
+
+    Igunga
+    Bukoko
+    Mtunguru
+    Nanga
+    Itumba
+    Nguvumoja
+    Mbutu
+    Isakamaliwa
+    Igurubi
+    Kinungu
+    Itunduru
+    Kining'inila
+    Mwamashiga
+    Mwamashimba
+    Mwamakona
+    Choma Chankola
+    Ngulu
+    Ntobo
+    Mwashiku
+    Ziba
+    Ibologero
+    Nyandekwa
+    Kitangiri
+    Ndembezi
+    Nkinga
+    Ugaka
+    Simbo
+    Mwisi
+    Chabutwa
+    Sungwisi
+    Mwamala
+    Uswaya
+    Tambarale
+    Igoweko
+
+
+    >>>Kaliua District
+
+    Ichemba
+    Igagala
+    Igombe Mkulu
+    Igwisi
+    Kaliua
+    Kamsekwa
+    Kanindo
+    Kanoge
+    Kashishi
+    Kazaroho
+    Milambo
+    Mwongozo
+    Sasu
+    Seleli
+    Silambo
+    Ugunga
+    Ukumbisiganga
+    Ushokola
+    Usinge
+    Uyowa
+    Zugimlole
+
+    >>>Nzega District 
+
+
+    Budushi
+    Bukene
+    Igusule
+    Ijanija
+    Ikindwa
+    Isagenhe
+    Isanzu
+    Itilo
+    Itobo
+    Kahamanhalanga
+    Karitu
+    Kasela
+    Lusu
+    Magengati
+    Mambali
+    Mbogwe
+    Miguwa
+    Milambo Itobo
+    Mizibaziba
+    Mogwa
+    Muhugi
+    Mwakashanhala
+    Mwamala
+    Mwangoye
+    Nata
+    Ndala
+    Nkiniziwa
+    Nzega Mjini
+    Nzegandogo
+    Puge
+    Semembela
+    Shigamba
+    Sigili
+    Tongi
+    Uduka
+    Utwigu
+    Wela
+
+    >>>Sikonge District 
+
+    Chabutwa
+    Igigwa
+    Ipole
+    Kaloleli
+    Kiloli
+    Kipanga
+    Kipili
+    Kisanga
+    Kitunda[5]
+    Misheni
+    Mole
+    Mpombwe
+    Ngoywa
+    Pangale
+    Sikonge
+    Tutuo
+    Usunga
+
+    >>>Tabora Municipal 
+
+    Chemchem
+    Cheyo
+    Gongoni
+    Ifucha
+    Ikomwa
+    Ipuli
+    Isevya
+    Itetemia
+    Itonjanda
+    Kabila
+    Kakola
+    Kalunde
+    Kanyenye
+    Kiloleni
+    Kitete
+    Malolo
+    Mbugani
+    Misha
+    Mtendeni
+    Ndevelwa
+    Ng'ambo
+    Ntalikwa
+    Tambukareli
+    Tumbi
+    Uyui
+
+    >>>Urambo District
+
+    Imalamakoye
+    Kapilula
+    Kasisi
+    Kiloleni
+    Muungano
+    Nsenda
+    Songambele
+    Ugalla
+    Ukondamoyo
+    Urambo
+    Usisya
+    Ussoke
+    Itundu
+    Uyogo
+    Uyumbu
+    Vumilia 
+
+    >>>Uyui District 
+
+    Bukumbi
+    Goweko
+    Ibelamilundi
+    Ibiri
+    Igalula
+    Ikongolo
+    Ilolanguru
+    Isikizya
+    Kigwa
+    Kizengi
+    Loya
+    Lutende
+    Mabama
+    Magiri
+    Miswaki
+    Miyenze
+    Ndono
+    Nsimbo
+    Nsololo
+    Shitage
+    Tura
+    Ufuluma
+    Upuge
+    Usagari
+
+
+##### Tanga Region ######
+    >>>Handeni District
+    Kabuku
+    Kabuku Ndani
+    Kang'ata
+    Pongwe Pogwe
+    Kiva
+    Komkonga
+    Kwachaga
+    Kwaluguru
+    Kwamatuku
+    Kwamgwe
+    Kwamkonje
+    Kwamsisi
+    Kwasunga
+    Kwedizinga
+    Mazingara
+    Mgambo
+    Misima
+    Mkata
+    Ndolwa
+    Segera
+    Sindeni
+
+    >>>Handeni Town 
+
+    Chanika
+    Kideleko
+    Konje
+    Kwamagome
+    Kwediyamba
+    Kwenjugo
+    Mabanda
+    Malezi
+    Mdoe
+    Mlimani
+    Msasa
+    Vibaoni
+
+    >>>Kilindi District 
+
+    Jaila
+    Kibirashi
+    Kikunde
+    Kilindi
+    Kilwa
+    Kimbe
+    Kisangasa
+    Kwediboma
+    Kwekivu
+    Lwande
+    Mabalanga
+    Masagalu
+    Mkindi
+    Msanja
+    Mafisa
+    Bokwa
+    Negero
+    Pagwi
+    Saunyi
+    Songe
+    Tunguli
+
+    >>>Korogwe Town 
+    Kilole
+    Kwamndolwa
+    Kwamsisi
+    Magunga
+    Manundu
+    Mtonga
+    Ngombezi
+    Old Korogwe
+
+    >>>Korogwe District 
+
+    Bungu
+    Chekelei
+    Dindira
+    Kizara
+    Kerenge
+    Kizara
+    Kwagunda
+    Kwashemshi
+    Lutindi
+    Magamba Kwalukonge
+    Magoma
+    Makuyuni
+    Mashewa
+    Mazinde
+    Mkalamo
+    Mkomazi
+    Mombo
+    Mpale
+    Mswaha
+    Vugiri
+
+    >>>Lushoto District 
+
+    Lushoto
+    Gare
+    Kwai
+    Ubiri
+    Mtae
+    Sunga
+    Rangwi
+    Mnazi
+    Lunguza
+    Mbaramo
+    Mng'aro
+    Mlalo
+    Mwangoi
+    Shume
+    Malindi
+    Hemtoye
+    Malibwi
+    Mlola
+    Makanya
+    Ngwelo
+    Kilole
+    Kwekanga
+    Lukozi
+    Manolo
+    Dule M
+    Kwemshasha
+    Ngulwi
+    Kwemashai
+
+    >>>Muheza District 
+
+    Amani
+    Bwembwera
+    Genge
+    Kicheba
+    Kigombe
+    Kilulu
+    Kisiwani
+    Kwafungo
+    Kwakifua
+    Kwemkabala
+    Lusanga
+    Magila
+    Magoroto
+    Majengo
+    Masuguru
+    Mbaramo
+    Mbomole
+    Mhamba
+    Misalai
+    Misozwe
+    Mkuzi
+    Mlingano
+    Mpapayu
+    Mtindiro
+    Ngomeni
+    Nkumba
+    Pande Darajani
+    Potwe
+    Songa
+    Tanganyika
+    Tingeni
+    Tongwe
+    Zirai
+
+    >>>Mkinga District 
+
+    Boma
+    Bosha
+    Bwiti
+    Daluni
+    Doda
+    Duga
+    Gombero
+    Kigongoi
+    Kwale
+    Manza
+    Mapatano
+    Maramba
+    Mayomboni
+    Mhinduro
+    Mkinga
+    Mnyenzani
+    Moa
+    Mtimbwani
+    Mwakijembe
+    Parungu Kasera
+    Sigaya
+
+    >>>Pangani District 
+
+    Bushiri
+    Bweni
+    Kimang'a
+    Kipumbwi
+    Madanga
+    Mikinguni
+    Mkalamo
+    Mkwaja
+    Mwera
+    Pangani Magharibi
+    Pangani Mashariki
+    Tungamaa
+    Ubangaa
+
+    >>>>Tanga City 
+
+
+    Central
+    Chongoleani
+    Chumbageni
+    Duga
+    Kiomoni
+    Kirare
+    Mabawa
+    Mabokweni
+    Majengo
+    Makorora
+    Marungu
+    Maweni
+    Msambweni
+    Mwanzange
+    Mzingani
+    Mzizima
+    Ngamiani Kaskazini
+    Ngamiani Kati
+    Ngamiani Kusini
+    Nguvumali
+    Pongwe
+    Tangasisi
+    Tongoni
+    Usagara
+
+    >>>Bumbuli District
+
+    Baga
+    Bumbuli
+    Dule B
+    Funta
+    Kisiwani
+    Kwemkomole
+    Maheza Ngulu
+    Mamba
+    Mayo
+    Mbuzii
+    Mgwashi
+    Milingano
+    Mponde
+    Nkongoi
+    Soni
+    Tamota
+    Usambara
+    Vuga
+	

@@ -1,0 +1,31 @@
+2 Arusha Region
+3 Dar es Salaam Region
+4 Dodoma Region
+5 Geita Region
+6 Iringa Region
+7 Kagera Region
+8 Kaskazini Pemba Region of Zanzibar
+9 Kaskazini Unguja Region of Zanzibar
+10 Katavi Region
+11 Kigoma Region
+12 Kilimanjaro Region
+13 Kusini Pemba Region of Zanzibar
+14 Kusini Unguja Region of Zanzibar
+15 Lindi Region
+16 Manyara Region
+17 Mara Region
+18 Mbeya Region
+19 Mjini Magharibi Region of Zanzibar
+20 Morogoro Region
+21 Mtwara Region
+22 Mwanza Region
+23 Njombe Region
+24 Pwani Region
+25 Rukwa Region
+26 Ruvuma Region
+27 Shinyanga Region
+28 Simiyu Region
+29 Singida Region
+30 Songwe Region
+31 Tabora Region
+32 Tanga Region
